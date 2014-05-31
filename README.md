@@ -1,4 +1,3 @@
 Notes
 =====
-
-My codes and drafts are in private repos for now, inquire within. I will release some once I publish.
+Right now I'm consolidating my data analysis pipeline and rewriting as everything using Pandas. I highly recommend Pandas. My goal is to minimize the need for MySQL to query catalogs from the database, and minimize the need for IDL to handle/plot/inspect data after equivalent width measurements are taken. I am also modifying IDL codes to make them more automated and python friendly. I would like to completely re-write IDL codes for measuring spectra into Pandas. I cannot incorporate this into my dissertation due to insufficient time and funding, but if there is interest in supporting this effort I would love to discuss!
